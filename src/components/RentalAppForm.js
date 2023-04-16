@@ -463,9 +463,9 @@ const RentalAppForm = () => {
 
 
 
-  <Button variant="primary" type="submit">
+  {/*<Button variant="primary" type="submit">
     Submit
-  </Button>
+  </Form></Button>*/}
 </Form>
 </Container>
       );
